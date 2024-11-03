@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Maldonado Saffiotti</h1>
 <h3 align="center">Passionate about data, seeking to enhance my analytical skills.</h3>
 
-- 🔭 **I’m currently working as a Data Specialist at TecAlliance, where I focus on standardizing data for parts, components, and vehicles in the automotive sector. With a degree in Mechanical Engineering, I gained valuable experience in the Maintenance area of the engine sector during my internship at General Motors.**
+**I’m currently working as a Data Specialist at TecAlliance, where I focus on standardizing data for parts, components, and vehicles in the automotive sector. With a degree in Mechanical Engineering, I gained valuable experience in the Maintenance area of the engine sector during my internship at General Motors.**
 
 **In addition to my main role, I serve as a tutor for Data Analytics and SQL at Coderhouse, helping students develop skills in data analysis and dashboard creation with Power BI. I also have experience in Machine Learning, acquired through a Data Science course, where I learned to build models in Python.**
 
