@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Gustavo Maldonado Saffiotti</h1>
 <h3 align="center">Passionate about data, seeking to enhance my analytical skills.</h3>
 
@@ -8,14 +7,12 @@
 
 **Currently, I am expanding my knowledge in Data Science and Big Data through a postgraduate program at PUC Minas, with an emphasis on statistical methods and Machine Learning to enhance data-driven decision-making. I am always seeking new opportunities to apply and expand my skills.**
 
-
-- 🌱 I’m currently learning **SQL, Python and Machine Learning**
-
-- 💬 Ask me about **SQL, Python, Excel and Power BI**
-
+- 🌱 I’m currently learning **SQL, Python, and Machine Learning**
+- 💬 Ask me about **SQL, Python, Excel, and Power BI**
 - 📫 How to reach me **Gustavo.msaffiotti@gmail.com**
-
 - ⚡ Fun fact **I like to watch and play Chess 😁**
+
+### [Visit My Portfolio]([https://your-portfolio-link.com](https://gustavo-saffiotti.github.io/Portfolio/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,19 +20,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-
-<!---
-
-- 👋 Hi, I’m @Gustavo-Saffiotti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Gustavo-Saffiotti/Gustavo-Saffiotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354348/power-bi.svg" alt="powerbi" width="40" height="40"/> </a>
+</p>
