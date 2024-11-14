@@ -12,7 +12,7 @@
 - 📫 How to reach me **Gustavo.msaffiotti@gmail.com**
 - ⚡ Fun fact **I like to watch and play Chess 😁**
 
-### [Visit My Portfolio](https://your-portfolio-link.com](https://gustavo-saffiotti.github.io/Portfolio/)
+### [Visit My Portfolio](https://gustavo-saffiotti.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
